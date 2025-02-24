@@ -20,8 +20,8 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE
 
 ## Autores
 
-- Brais Pociña-Sánchez
-- Jesús López-Rodríguez
+- Brais Pociña-Sánchez (University of A Coruña, Spain)
+- Jesús López-Rodríguez (University of A Coruña, Spain)
 
 ## Referencias
 
