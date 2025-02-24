@@ -5,7 +5,6 @@ This repository contains the Mathematica source code for the theoretical model o
 ## Contents
 
 - `derivation_code.nb`: Main notebook with the model implementation.
-- `data/`: Folder with input data or example outputs.
 - `README.md`: This file.
 
 
@@ -16,7 +15,7 @@ This repository contains the Mathematica source code for the theoretical model o
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
 ## Autores
 
